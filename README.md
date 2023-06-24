@@ -2,10 +2,10 @@
  This is a bot that allows you to manage your OS by typing in normal natural language
 
 Example 1
-![alt text](example1.png)
+![alt text](examples/example1.png)
 
 Example2
-![alt text](example2.png)
+![alt text](examples/example2.png)
 
 
 ### Setup
