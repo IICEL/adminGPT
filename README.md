@@ -36,3 +36,6 @@ prompt on line : 43
 2. Optional output on line 73
 
 3. Line 82 change powershell for any other shell.
+
+# Original blog post :
+http://blog.securecortex.com/2023/06/using-latest-openai-function-api.html
