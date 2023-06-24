@@ -1,6 +1,9 @@
 # adminGPT
  This is a bot that allows you to manage your OS by typing in normal natural language
 
+#Warning : This code is dangerous as it allows GPT  to execute code from your system. GPT output can be unpredictable and may result in loss of data or demage to your system.
+We suggest to test in a container.
+
 Example 1
 ![alt text](examples/example1.png)
 
