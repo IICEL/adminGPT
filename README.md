@@ -8,7 +8,7 @@ Example2
 ![alt text](examples/example2.png)
 
 
-### Setup
+# Setup
 ```bash
 gh repo clone IICEL/adminGPT
 ```
@@ -17,7 +17,7 @@ pip3 install -r requirements.txt
 ```
 or for windows
 ```bash
-pip install -user -r requirements.txt
+pip install --user -r requirements.txt
 ```
 edit the main.conf file to add you openai key
 
@@ -27,9 +27,9 @@ python3 main.py
 
 Visit the URL : localhost:8085 in your browser
 
-### Switching the code to other OS
-1. Edit Lines in os_agent.py
-prompt on line : 27
+# Switching the code to other OS
+## Edit Lines in os_agent.py
+1. prompt on line : 27
 prompt on line : 37
 prompt on line : 43
 
