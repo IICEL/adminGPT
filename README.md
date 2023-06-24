@@ -22,7 +22,7 @@ or for windows
 ```bash
 pip install --user -r requirements.txt
 ```
-edit the main.conf file to add you openai key
+edit the main.conf file to add your openai key
 
 
 Running the code :
