@@ -9,8 +9,9 @@ Example2
 
 
 ### Setup
-
-git clone
+```bash
+gh repo clone IICEL/adminGPT
+```
 ```bash
 pip3 install -r requirements.txt
 ```
